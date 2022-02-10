@@ -1,0 +1,11 @@
+/home/integritas/projects/Other/Rust_by_NEAR/near-smart-contract/target/wasm32-unknown-unknown/release/deps/sha3-22e79c1f86133c7f.rmeta: /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/integritas/projects/Other/Rust_by_NEAR/near-smart-contract/target/wasm32-unknown-unknown/release/deps/libsha3-22e79c1f86133c7f.rlib: /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/integritas/projects/Other/Rust_by_NEAR/near-smart-contract/target/wasm32-unknown-unknown/release/deps/sha3-22e79c1f86133c7f.d: /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs:
+/home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs:
+/home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs:
+/home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs:
+/home/integritas/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs:

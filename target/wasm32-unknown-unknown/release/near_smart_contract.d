@@ -1,0 +1,1 @@
+/home/integritas/projects/Other/Rust_by_NEAR/near-smart-contract/target/wasm32-unknown-unknown/release/near_smart_contract.wasm: /home/integritas/projects/Other/Rust_by_NEAR/near-smart-contract/src/lib.rs

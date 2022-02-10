@@ -1,0 +1,1 @@
+{"rustc":10026429466883849012,"features":"[]","target":17785655539129898408,"profile":16452766847970628972,"path":2495006454824994736,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/itoa-3caccef6d77e97fd/dep-lib-itoa"}}],"rustflags":["-C","link-arg=-s"],"metadata":851671291587502216,"config":0,"compile_kind":8104632896995515128}

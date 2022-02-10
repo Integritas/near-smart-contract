@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/integritas/projects/Other/Rust_by_NEAR/near-smart-contract/target/wasm32-unknown-unknown/release/build/typenum-2e7988afa219838a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/integritas/projects/Other/Rust_by_NEAR/near-smart-contract/target/wasm32-unknown-unknown/release/build/typenum-2e7988afa219838a/out/op.rs
