@@ -8,6 +8,6 @@ pub struct Contract;
 #[near_bindgen]
 impl Contract {
     pub fn hello() {
-        env::log("Hello world".as_ref());
+        env::log("message".as_ref());
     }
 }
